@@ -1,3 +1,18 @@
+# Lancement project TixT
+
+## 1 - Installation
+
+Télécharger le projet sur https://github.com/VictorLrd/TIXTDev en zip
+ou
+Faites un git clone https://github.com/VictorLrd/TIXTDev
+
+Faites ensuite un npm install afin d'installer tous les modules!
+
+Une fois que vous aurez fais la partie BACK PROJECT TIXT,
+faites npm start et votre projet sera lancer sur le port 8080 !
+
+Bonne visite de l'application !
+
 # Back project TixT
 
 Partie back du projet Tixt. Api permettant de récupérer des donnée d’une base de donnée MySQL.
@@ -150,3 +165,5 @@ Retourne une liste de vehicules avec different filtre :
     -prix
     
 Pour ne pas utiliser un filtre passer " default " dans la requette
+
+
